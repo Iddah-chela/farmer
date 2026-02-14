@@ -1,0 +1,7 @@
+{
+  "name": "YieldSync - Kenyan AgriMarket",
+  "description": "A mobile-first marketplace connecting Kenyan farmers with bulk buyers, featuring M-Pesa integration, escrow logic, and low-data optimization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
